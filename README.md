@@ -7,3 +7,4 @@
 - J'ai une image d'airsoft
 - Elle est centrée
 - Le style est dans index.html
+- Le bg est en beige
